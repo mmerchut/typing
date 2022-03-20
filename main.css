@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-size: 50px;
+  font-family: arial;
+}
+.result {
+  color: rgb(41, 151, 68);
+}
+.text {
+  margin-top: 50px;
+}
+.type {
+  font-size: 30px;
+}
+
+.text,
+.result,
+.type {
+  margin-top: 20px;
+}
+.clearBtn {
+  border: none;
+  background-color: rgb(224, 223, 223);
+  padding: 10px;
+  border-radius: 4px;
+}
+.clearBtn:hover {
+  cursor: pointer;
+  background-color: rgb(173, 166, 166);
+}
